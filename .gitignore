@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea
+/.vscode
+/.vagrant
+*.pyc
+/gerapy.egg-info
+/dist
+/build
+npm-debug.log
+/test
+/tests
+db.sqlite3
+install.sh
