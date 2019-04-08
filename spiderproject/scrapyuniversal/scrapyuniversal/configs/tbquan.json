@@ -19,7 +19,7 @@
   "rules": "tbquan",
   "item":{
     "class": "NewsItem",
-    "loader": "ChinaLoader",
+    "loader": "NewsLoader",
     "attrs":{
       "title":[
         {
